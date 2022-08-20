@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Resources & Guides Used
+
+### Initial Installation & Setup
+
+[How to Deploy (for Free) an Angular App to GitHub Pages Without Using Any Libraries (Step-by-Step Guide)](https://medium.com/swlh/how-to-deploy-an-angular-app-to-github-pages-without-using-any-libraries-step-by-step-guide-cfe96fb0c879)
+
+\- Andreas Hadjithoma (Nov 21, 2020) 
+
+- _**Note:** slightly out of date, but close enough to get started._
