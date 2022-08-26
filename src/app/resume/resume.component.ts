@@ -1,5 +1,5 @@
 import { Component } from '@angular/core'
-import { skills }    from './skills'
+import { skills }    from './resources/skills'
 
 @Component ( {
   selector    :    'resume',

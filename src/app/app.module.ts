@@ -4,13 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from "./app.component";
 
-import { ToolComponent } from "./tool/tool.component";
+import { AngularTemplate } from "./angular-template/angular-template.component";
 import { ResumeComponent } from "./resume/resume.component";
 
 @NgModule({
   declarations: [
     AppComponent,
-    ToolComponent,
+    AngularTemplate,
     ResumeComponent
   ],
   imports: [

@@ -24,7 +24,7 @@ export const skills : Skill [] =
   },
   {
     name: 'Angular',
-    level: 1,
+    level: NaN,
   },
   {
     name: 'PHP',
