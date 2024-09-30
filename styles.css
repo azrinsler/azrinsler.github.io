@@ -1,14 +1,14 @@
 @media (prefers-color-scheme: dark) {
     * {
-        --text-color: white;
-        --bg-color: black;
+        --text-color: #eee;
+        --bg-color: #121212;
     }
 }
 
 @media (prefers-color-scheme: light) {
     * {
-        --text-color: black;
-        --bg-color: white;
+        --text-color: #000;
+        --bg-color: #fff;
     }
 }
 
