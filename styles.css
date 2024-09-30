@@ -1,20 +1,26 @@
 @media (prefers-color-scheme: dark) {
     * {
-        --text-color: #eee;
-        --bkg-color: #121212;
+        --text-color: white;
+        --bg-color: black;
     }
 }
 
 @media (prefers-color-scheme: light) {
     * {
-        --text-color: #eee;
-        --bkg-color: #121212;
+        --text-color: black;
+        --bg-color: white;
     }
 }
 
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    background: var(--bkg-color);
+    background: var(--bg-color);
     color: var(--text-color);
+}
+
+body {
+    margin: 1em;
+    padding: 2em;
+    border: 2px solid darkslategray;
 }
